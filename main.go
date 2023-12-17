@@ -1,2 +1,2 @@
-i
+package main
 main go code
